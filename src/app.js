@@ -14,28 +14,6 @@ import 'react-dates/lib/css/_datepicker.css';
 
 const store = configureStore();
 
-// const expenseOne = store.dispatch(addExpense({
-//     description:'rent',
-//     amount:'51234',
-//     createdAt:1000
-// }));
-
-// const expenseTwo = store.dispatch(addExpense({
-//     description:'Coffe',
-//     amount:'56789',
-//     createdAt:-1000
-// }));
-
-// const expenseThree = store.dispatch(addExpense({
-//     description:'sweet',
-//     amount:'30',
-//     createdAt:2000
-// }));
-
-setTimeout(()=>{
-// store.dispatch(setTextFilter('coffe'));
-// store.dispatch(sortByAmount());
-},3000);
 const jsx = (
     <Provider store={store}>
         <AppRouter/>
