@@ -1,0 +1,7 @@
+ FIREBASE_API_KEY=AIzaSyD72YBD5QsrADc3mTss4qpZPWp5HDrmk7I
+ FIREBASE_AUTH_DOMAIN=react-expensify-test-app.firebaseapp.com
+ FIREBASE_DATABASE_URL=https://react-expensify-test-app.firebaseio.com
+ FIREBASE_PROJECT_ID=react-expensify-test-app
+ FIREBASE_STORAGE_BUCKET=react-expensify-test-app.appspot.com
+ FIREBASE_MESSAGING_SENDER=788235588709
+ FIREBASE_APP_ID=1:788235588709:web:490e721bb0be6af7cce28c
